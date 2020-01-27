@@ -112,3 +112,7 @@ $('.representantes-item').click(function() {
         $(this).find('.representantes-details').toggleClass('ocultarDisplay')
     }
 })
+
+function startPerfecthaFAQ() {
+    $('.collapsible').collapsible();
+}

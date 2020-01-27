@@ -745,3 +745,125 @@ footer .creare img {
     line-height: 13px;
     margin-bottom: 1rem;
 }
+
+
+/********************* PERFECTHA *********************/
+
+.top-menu {
+    height: 50px;
+    padding: 5px 0;
+}
+
+.top-menu img {
+    height: 40px;
+}
+
+.perfectha-pages .menu {
+    top: 50px;
+    z-index: 10;
+    transition: 0.3s;
+}
+
+.perfectha-pages .menu img {
+    max-width: 200px;
+    display: block
+}
+
+.perfectha-pages .menu-links>a {
+    padding: 20px 0px;
+}
+
+.perfectha-pages .faq {
+    padding-bottom: 3rem;
+}
+
+.perfectha-pages .faq-filter {
+    background: #F4C0CD 0% 0% no-repeat padding-box;
+    padding: 1rem;
+    min-height: 300px
+}
+
+.perfectha-pages .faq-filter .title {
+    text-align: left;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.perfectha-pages .faq-filter .filter {
+    font-weight: 700;
+}
+
+.perfectha-pages .collapsible {
+    margin: 0
+}
+
+.perfectha-pages .collapsible-header {
+    color: #707070;
+    display: flex;
+    align-items: center;
+    padding: 10px 1rem;
+}
+
+.perfectha-pages .collapsible-header span {
+    font-size: 20px;
+    margin-right: 1.5rem;
+}
+
+.perfectha-pages .contacts {
+    background: #F0EFEF 0% 0% no-repeat padding-box;
+    padding: 3rem 0;
+    color: #777777;
+}
+
+.perfectha-pages .contacts a {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.perfectha-pages footer {
+    background: #F4C0CD 0% 0% no-repeat padding-box;
+}
+
+.perfectha-pages .footer-links a {
+    font-weight: bold;
+}
+
+.perfectha-pages .footer-links div {
+    margin: 6px 0;
+}
+
+.perfectha-pages .footer-follow {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.perfectha-pages .footer-follow i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+.perfectha-pages .perfectha-inputs input {
+    border: 1px solid black !important;
+    margin-bottom: 0px !important;
+    color: white;
+    padding-left: 10px !important;
+    width: calc(100% - 10px) !important;
+    height: 35px !important;
+    border-radius: 5px;
+    font-size: 14px !important;
+}
+
+.perfectha-pages .perfectha-inputs input::placeholder {
+    color: white;
+    font-size: 14px;
+}
+
+.perfectha-pages .perfectha-inputs button {
+    border: 0px !important;
+    height: 35px;
+    margin-left: 10px;
+    padding: 0px 1rem !important;
+    border-radius: 5px;
+    text-transform: uppercase;
+}

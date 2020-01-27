@@ -27,6 +27,7 @@
 
 .menusolid {
     background: #b2b2b2;
+    top: 0 !important;
 }
 
 .menumobile_logo img {
