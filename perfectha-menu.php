@@ -48,7 +48,7 @@
 
         <div class="menumobile_logo center">
             <a href="index.php">
-                <img src="assets/img/sinclairpharma.png" alt="">
+                <img src="assets/img/perfectha.png" alt="">
             </a>
         </div>
     </div>
@@ -59,7 +59,7 @@
 <div class="pushmenu pushmenu-right textCapitalize">
     <div class="center">
         <a href="index.php">
-            <img src="assets/img/sinclairpharma.png" alt="">
+            <img src="assets/img/perfectha.png" alt="">
         </a>
     </div>
     <a href="">
