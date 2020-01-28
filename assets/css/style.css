@@ -867,3 +867,117 @@ footer .creare img {
     border-radius: 5px;
     text-transform: uppercase;
 }
+
+
+/********************* ELLANSE *********************/
+
+.ellanse-pages .menu {
+    top: 50px;
+    z-index: 10;
+    transition: 0.3s;
+}
+
+.ellanse-pages .menu img {
+    max-width: 200px;
+    display: block
+}
+
+.ellanse-pages .menu-links>a {
+    padding: 20px 0px;
+}
+
+.ellanse-pages .faq {
+    padding-bottom: 3rem;
+}
+
+.ellanse-pages .faq-filter {
+    background: #F9F004 0% 0% no-repeat padding-box;
+    padding: 1rem;
+    min-height: 300px
+}
+
+.ellanse-pages .faq-filter .title {
+    text-align: left;
+    letter-spacing: 0;
+    color: black;
+    text-transform: uppercase;
+}
+
+.ellanse-pages .faq-filter .filter {
+    font-weight: 700;
+}
+
+.ellanse-pages .collapsible {
+    margin: 0
+}
+
+.ellanse-pages .collapsible-header {
+    color: #707070;
+    display: flex;
+    align-items: center;
+    padding: 10px 1rem;
+}
+
+.ellanse-pages .collapsible-header span {
+    font-size: 20px;
+    margin-right: 1.5rem;
+}
+
+.ellanse-pages .contacts {
+    background: #F0EFEF 0% 0% no-repeat padding-box;
+    padding: 3rem 0;
+    color: #777777;
+}
+
+.ellanse-pages .contacts a {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.ellanse-pages footer {
+    background: #000 0% 0% no-repeat padding-box;
+}
+
+.ellanse-pages .footer-links a {
+    font-weight: bold;
+}
+
+.ellanse-pages .footer-links div {
+    margin: 6px 0;
+}
+
+.ellanse-pages .footer-follow {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.ellanse-pages .footer-follow i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+.ellanse-pages .ellanse-inputs input {
+    border: 1px solid #F9F004 !important;
+    margin-bottom: 0px !important;
+    color: white;
+    padding-left: 10px !important;
+    width: calc(100% - 10px) !important;
+    height: 35px !important;
+    border-radius: 5px;
+    font-size: 14px !important;
+}
+
+.ellanse-pages .ellanse-inputs input::placeholder {
+    color: white;
+    font-size: 14px;
+}
+
+.ellanse-pages .ellanse-inputs button {
+    border: 0px !important;
+    height: 35px;
+    margin-left: 10px;
+    padding: 0px 1rem !important;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
